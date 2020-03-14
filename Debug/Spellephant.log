@@ -1,0 +1,133 @@
+﻿  AnimatedFeedback.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(298): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(361): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(362): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(365): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(366): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(440): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(480): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(550): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(551): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(564): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\AnimatedFeedback.cpp(582): warning C4018: '<': signed/unsigned mismatch
+  App.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  DBController.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  Dumbell.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(105): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(106): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(111): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(110): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(109): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(108): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(175): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(185): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\utility(123): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(154): note: see reference to function template instantiation 'std::pair<int,int>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+  D:\Documents\Visual Studio 2019\Projects\Spellephant\Dumbell.cpp(154): note: see reference to function template instantiation 'std::pair<int,int>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\utility(123): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Keyboard.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(193): warning C4244: 'argument': conversion from 'const wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(201): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(328): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(362): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(370): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(378): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(386): warning C4244: 'argument': conversion from 'wchar_t' to 'const char', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(446): error C2137: empty character constant
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(447): error C2137: empty character constant
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Keyboard.cpp(467): error C2275: 'std::string': illegal use of this type as an expression
+  D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xstring(4167): note: see declaration of 'std::string'
+  main.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\main.cpp(14): fatal error C1075: '{': no matching token found
+  Menus.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  Mode.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  Options.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  Random.cpp
+  ScrollBox.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\ScrollBox.cpp(581): error C3861: 'mem_fun': identifier not found
+D:\Documents\Visual Studio 2019\Projects\Spellephant\ScrollBox.cpp(581): error C2672: 'distance': no matching overloaded function found
+D:\Documents\Visual Studio 2019\Projects\Spellephant\ScrollBox.cpp(581): error C2780: 'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)': expects 2 arguments - 1 provided
+  D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\xutility(785): note: see declaration of 'std::distance'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\ScrollBox.cpp(630): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Documents\Visual Studio 2019\Projects\Spellephant\ScrollBox.cpp(632): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Slider.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Slider.cpp(22): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+  Speller.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\DBController.h(8): fatal error C1083: Cannot open include file: 'sqlite3.h': No such file or directory
+  SpellingSpotter.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(107): error C3861: 'mem_fun_ref': identifier not found
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(115): error C3861: 'mem_fun_ref': identifier not found
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(146): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(150): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(211): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\SpellingSpotter.cpp(214): warning C4018: '<': signed/unsigned mismatch
+  TitleScreen.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\TitleScreen.cpp(3): fatal error C1083: Cannot open include file: 'CApp.h': No such file or directory
+  Utility.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+  Word.cpp
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Definitions.h(14): warning C4005: 'MAPVK_VK_TO_CHAR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winuser.h(6760): note: see previous definition of 'MAPVK_VK_TO_CHAR'
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(262): error C2137: empty character constant
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(520): warning C4018: '>': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(840): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(853): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(873): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(954): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(965): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(968): warning C4018: '>': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(973): warning C4018: '>': signed/unsigned mismatch
+D:\Documents\Visual Studio 2019\Projects\Spellephant\Word.cpp(994): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...

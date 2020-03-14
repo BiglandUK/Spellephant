@@ -111,7 +111,7 @@ private:
     StringList existingNames_;      // List of names that already exist (speller name must be unique)
     bool showNameExistsWarning_;
     
-    unsigned int& spellerID_;   // If a speller is created, it is stored here and passed back to cApp.cpp.
+    unsigned int& spellerID_;   // If a speller is created, it is stored here and passed back to App.cpp.
     TagList& tagList_;          // If a speller is created, the tag list is used to create the default entries in SpellerTags in the DB
 };
 
