@@ -10,3 +10,5 @@ Animations would show how their wrong spelling needed to change to be made corre
 The software could identify incorrect letters, missing letters, additional letters and two letters swapped over.
 
 Was never finished. Needs to be updated to something like SFML.
+
+It used sqlite to store the data - could this easily be changed to use regular classes?
